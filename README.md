@@ -2,4 +2,4 @@
 Socket.IO
 =========
 
-![test image size](https://ae01.alicdn.com/kf/HTB15n3WRXXXXXa2XpXXq6xXFXXX9.jpg  | width=100)
+![test image size](https://ae01.alicdn.com/kf/HTB15n3WRXXXXXa2XpXXq6xXFXXX9.jpg  = 250x250)
